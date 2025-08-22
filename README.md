@@ -12,9 +12,9 @@ Task-3/
 
 /- HTML file - Simple HTML file
 
-/- python file - Simple python
-
 /- README - Documentation
+
+/- python file - Simple python
 
 **Rights and Usage:**
 
